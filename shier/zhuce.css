@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'iconfont';  /* project id 563243 */
-  src: url('https://at.alicdn.com/t/font_563243_5s0zr4qrflvm42t9.eot');
-  src: url('https://at.alicdn.com/t/font_563243_5s0zr4qrflvm42t9.eot?#iefix') format('embedded-opentype'),
-  url('https://at.alicdn.com/t/font_563243_5s0zr4qrflvm42t9.woff') format('woff'),
-  url('https://at.alicdn.com/t/font_563243_5s0zr4qrflvm42t9.ttf') format('truetype'),
-  url('https://at.alicdn.com/t/font_563243_5s0zr4qrflvm42t9.svg#iconfont') format('svg');
+  src: url('https://at.alicdn.com/t/font_563243_i17113ssdjp833di.eot');
+  src: url('https://at.alicdn.com/t/font_563243_i17113ssdjp833di.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_563243_i17113ssdjp833di.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_563243_i17113ssdjp833di.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_563243_i17113ssdjp833di.svg#iconfont') format('svg');
 }
 body{
 	background-color:white;
@@ -438,4 +438,203 @@ body{
 	top: -0.6rem;
 	left: 2.49rem;
 
+}
+.tomorrow{
+	width: 100%;
+	height: 1.27rem;
+	background-color: white;
+}
+.tomorrow1{
+	margin-top: 0.33rem;
+	width: 100%;
+	height: 1.27rem;
+	background-color: white;
+}
+.tomorrow2{
+	margin-top: 0.33rem;
+	width: 100%;
+	height: 14rem;
+	/*background-color: white;*/
+}
+.tomorrow_left1{
+	font-family: 'iconfont'; 
+	width: 1.62rem;
+	height: 1.27rem;
+/*	background-color: yellow;*/
+	float: left;
+	font-size: 0.63rem;
+	color: #FF8434;
+	line-height: 1.27rem;
+	text-align: center;
+}
+.tomorrow_left{
+	font-family: 'iconfont'; 
+	width: 1.62rem;
+	height: 1.27rem;
+/*	background-color: yellow;*/
+	float: left;
+	font-size: 0.5rem;
+	color: #351E1E;
+	line-height: 1.27rem;
+	text-align: center;
+
+}
+.tomorrow_center{
+	width: 2.22rem;
+	height: 100%;
+	/*background-color: yellow;*/
+	margin-left: 2.66rem;
+	font-size: 0.5rem;
+	line-height: 1.27rem;
+	float: left;
+	color: #351E1E;
+}
+.tomorrow_center1{
+	width: 3rem;
+	height: 100%;
+	/*background-color: yellow;*/
+	margin-left: 0.2rem;
+	font-size: 0.4rem;
+	line-height: 1.27rem;
+	float: left;
+	color: #351E1E;
+}
+.photo{
+	width: 10.8rem;
+	height: 2.78rem;
+	background-color: white;
+	padding-top: 0.72rem;
+	padding-left: 0.67rem;
+	/*padding-right: 0.73rem;*/
+}
+.photo_left{
+	width: 2.05rem;
+	height: 2.05rem;
+	/*background-color: white;*/
+	border-radius: 50%;
+	float: left;
+}
+.photo_left img{
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+.photo_right{
+	width: 2.25rem;
+	height: 1.01rem;
+	/*background-color: white;*/
+	margin-left: 0.99rem;
+	margin-top: 0.56rem;
+	float: left;
+
+}
+.photo_right p,.photo_right1 p{
+	font-size: 0.35rem;
+	color: #351E1E;
+	text-align: center;
+	margin-bottom: 0.3rem;
+}
+.photo_right1{
+	width: 2.25rem;
+	height: 1.01rem;
+	/*background-color: white;*/
+	margin-top: 0.56rem;
+	float: left;
+}
+.bike{
+	width: 10.8rem;
+	height: 2.74rem;
+	background-color: white;
+	padding:0.82rem 0.56rem 0.71rem 0.88rem;
+
+}
+.bike_one{
+	width:1.17rem;
+	height: 1.21rem;
+/*	background-color: pink;*/
+	float: left;
+}
+.bike_top{
+	font-family: 'iconfont'; 
+	line-height: 0.59rem;
+	font-size: 0.48rem;
+	text-align: center;
+	width: 100%;
+	height: 0.59rem;
+	/*background-color: blue;*/
+	margin-bottom: 0.27rem;
+}
+.bike_one p,.bike_two p,.bike_two2 p,.bike_two3 p{
+    font-size: 0.35rem;
+    color: #351E1E;
+}
+.bike_two{
+	width:0.74rem;
+	height: 100%;
+	/*background-color: pink;*/
+	float: left;
+	margin-left: 1.69rem;
+}
+.bike_two2{
+	width:0.74rem;
+	height: 100%;
+	/*background-color: pink;*/
+	float: left;
+	margin-left: 1.96rem;
+}
+.bike_two3{
+	width: 1.53rem;
+	height: 100%;
+	/*background-color: pink;*/
+	margin-left: 1.5rem;
+	float:left;
+}
+.qingdan{
+	border-top: 1px solid #ccc;
+	width: 10.8rem;
+	height: 8.5rem;
+	background-color: white;
+
+}
+.adding{
+	width: 100%;
+	height: 1.1rem;
+	/*background-color: blue;*/
+	line-height: 1.1rem;
+
+}
+.zenjia{
+	font-family: 'iconfont';
+	font-size: 1.06rem;
+	color: #FF4558;
+	margin-left: 0.45rem;
+}
+.xinjian{
+	height: 1.1rem;
+	font-size: 0.45rem;
+	color: #351E1E;
+	margin-left: 0.45rem;
+	text-align: center;
+	margin-bottom: 0.5rem;
+
+}
+.pink{
+	font-family: 'iconfont';
+	width: 	100%; 
+	font-size: 2.76rem;
+	margin-top: 3.32rem;
+	text-align: center;
+	float: left;
+	color: #FF4258;
+}
+.black{
+	width: 100%;
+	text-align: center;
+	margin-top: 1.5rem;
+	font-size: 0.33rem;
+	float: left;
+	color: #B3AFAF;
+}
+.bike a{
+	color:#351E1E; 
 }

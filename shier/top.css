@@ -50,12 +50,21 @@ body{
 	padding-left: 0.4rem;
 	padding-top: 0.58rem;
 	background-color: #FFFEFE;
+	font-weight: 800;
 }
 .head_one{
 	font-size: 0.44rem;
 	color:#8C7878;
 	font-family: "Microsoft Yahei";
 	margin-right: 0.7rem;
+	float: left;
+}
+.head_one1{
+	margin-left: 0.7rem;
+	font-size: 0.44rem;
+	color:#8C7878;
+	font-family: "Microsoft Yahei";
+	margin-right: 1.35rem;
 	float: left;
 }
 .head_two{
@@ -65,6 +74,13 @@ body{
 	margin-right: 1.04rem;
 	float: left;
 }
+.head_two1{
+	font-size: 0.44rem;
+	color:#8C7878;
+	font-family: "Microsoft Yahei";
+	margin-right: 1.37rem;
+	float: left;
+}
 .head_three{
 	font-size: 0.44rem;
 	color:#8C7878;
@@ -72,7 +88,14 @@ body{
 	margin-right: 1.06rem;
 	float: left;
 }
-.head_four{
+.head_three1{
+	font-size: 0.44rem;
+	color:#8C7878;
+	font-family: "Microsoft Yahei";
+	margin-right: 1.3rem;
+	float: left;
+}
+.head_four,.head_four1{
 	font-size: 0.44rem;
 	color:#8C7878;
 	font-family: "Microsoft Yahei";

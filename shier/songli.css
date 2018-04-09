@@ -99,7 +99,7 @@ body{
 	/* margin-right: 1.06rem; */
 	float: left;
 }
-.head_wenzi p:hover{
+.head_wenzi p:hover,.head_wenzi1 p:hover{
 	color: #FF5C6B;
 	border-bottom: 0.05rem solid #FF5C6B;
 	/* background-color: #FF5C6B; */
@@ -320,5 +320,13 @@ body{
 	top:0;
 	left:0;
 	float: left;
+}
+.head_wenzi1{
+	margin-top: 0.31rem;
+	width: 10.8rem;
+	height: 1.54rem;
+	padding-left: 4.15rem;
+	padding-top: 0.49rem;
+	background-color: #FFFEFE;
 }
 
